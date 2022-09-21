@@ -1,0 +1,4 @@
+#Wed Sep 21 17:36:16 IST 2022
+base.0=D\:\\Shubham's_APP\\Shubham's_APP\\GroceryApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

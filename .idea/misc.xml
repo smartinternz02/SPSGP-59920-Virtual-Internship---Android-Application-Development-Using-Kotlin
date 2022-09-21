@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GroceryApp/app/src/main/res/drawable-anydpi/grocery_item_bg.xml" value="0.1" />
+        <entry key="..\:/GroceryApp/app/src/main/res/drawable-anydpi/ic_undraw_shopping_app_flsj.xml" value="0.1" />
+        <entry key="..\:/GroceryApp/app/src/main/res/drawable-anydpi/rupee.xml" value="0.1" />
+        <entry key="..\:/GroceryApp/app/src/main/res/drawable/dialog_bg.xml" value="0.136" />
+        <entry key="..\:/GroceryApp/app/src/main/res/layout/groceryadapter.xml" value="0.264" />
+        <entry key="..\:/GroceryApp/app/src/main/res/layout/grocerydialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-anydpi/grocery_item_bg.xml" value="0.2025" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-anydpi/ic_action_delete.xml" value="0.2025" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-anydpi/ic_undraw_shopping_app_flsj.xml" value="0.2025" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-anydpi/rupee.xml" value="0.2025" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-mdpi/gradiant_animation.xml" value="0.1" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-mdpi/gradiant_center.xml" value="0.1" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-mdpi/gradiant_end.xml" value="0.1" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable-mdpi/gradiant_start.xml" value="0.1" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/drawable/dialog_bg.xml" value="0.2115" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/layout/groceryadapter.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shubham's_APP/Shubham's_APP/GroceryApp/app/src/main/res/layout/grocerydialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/91800/Desktop/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/91800/Desktop/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/groceryadapter.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/91800/Desktop/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/grocerydialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/91800/Desktop/Secure Chat-v3.0/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/91800/Desktop/Secure Chat-v3.0/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/groceryadapter.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/91800/Desktop/Secure Chat-v3.0/SPSGP-74078-Virtual-Internship---Android-Application-Development-Using-Kotlin/GroceryApp/app/src/main/res/layout/grocerydialog.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

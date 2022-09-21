@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-xhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\font_rouge_script.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\font\\rouge_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_rectangle.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_adapter2.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\adapter2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-mdpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_gradiant_center.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\gradiant_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-hdpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_dialogbackground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\dialogbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_title.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_gradiant_end.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\gradiant_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_button.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xhdpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxhdpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\font_rokkitt.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\font\\rokkitt.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_adapter1.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\adapter1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-xxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-hdpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-mdpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_ic_undraw_shopping_app_flsj.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\ic_undraw_shopping_app_flsj.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_rupee.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\rupee.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\raw_cartfile.json.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\raw\\cartfile.json"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxhdpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_gradiant_start.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\gradiant_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_rupee.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xhdpi\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_gradiant_animation.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-mdpi\\gradiant_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_ic_action_add.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\ic_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_ic_action_delete.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\ic_action_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\raw_addbutton.json.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\raw\\addbutton.json"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_ic_action_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi_grocery_item_bg.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-anydpi\\grocery_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "com.example.grocerylist.app-merged_res-15:/layout_groceryadapter.xml.flat",
+        "source": "com.example.grocerylist.app-main-17:/layout/groceryadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\layout_groceryadapter.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\layout\\groceryadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\layout_grocerydialog.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\layout\\grocerydialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxxhdpi_ic_undraw_shopping_app_flsj.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxxhdpi\\ic_undraw_shopping_app_flsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-main-17:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-merged_res-15:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.grocerylist.app-pngs-10:\\drawable-mdpi\\ic_launcher_foreground.png"
+    }
+]
